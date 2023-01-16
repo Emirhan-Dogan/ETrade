@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Z9cFiH0ddzYGl10Burd2NYWwoGgD5UCxpGN0uPu42v0=",
+  "Source": "ETradeServer.WebAPI",
+  "BasePath": "_content/ETradeServer.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

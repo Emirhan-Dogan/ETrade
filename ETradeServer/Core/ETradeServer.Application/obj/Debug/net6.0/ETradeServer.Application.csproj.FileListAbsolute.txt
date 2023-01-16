@@ -1,0 +1,15 @@
+D:\Kodlar\ETrade\ETradeServer\Core\ETradeServer.Application\bin\Debug\net6.0\ETradeServer.Application.deps.json
+D:\Kodlar\ETrade\ETradeServer\Core\ETradeServer.Application\bin\Debug\net6.0\ETradeServer.Application.dll
+D:\Kodlar\ETrade\ETradeServer\Core\ETradeServer.Application\bin\Debug\net6.0\ETradeServer.Application.pdb
+D:\Kodlar\ETrade\ETradeServer\Core\ETradeServer.Application\bin\Debug\net6.0\ETradeServer.Domain.dll
+D:\Kodlar\ETrade\ETradeServer\Core\ETradeServer.Application\bin\Debug\net6.0\ETradeServer.Domain.pdb
+D:\Kodlar\ETrade\ETradeServer\Core\ETradeServer.Application\obj\Debug\net6.0\ETradeServer.Application.csproj.AssemblyReference.cache
+D:\Kodlar\ETrade\ETradeServer\Core\ETradeServer.Application\obj\Debug\net6.0\ETradeServer.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodlar\ETrade\ETradeServer\Core\ETradeServer.Application\obj\Debug\net6.0\ETradeServer.Application.AssemblyInfoInputs.cache
+D:\Kodlar\ETrade\ETradeServer\Core\ETradeServer.Application\obj\Debug\net6.0\ETradeServer.Application.AssemblyInfo.cs
+D:\Kodlar\ETrade\ETradeServer\Core\ETradeServer.Application\obj\Debug\net6.0\ETradeServer.Application.csproj.CoreCompileInputs.cache
+D:\Kodlar\ETrade\ETradeServer\Core\ETradeServer.Application\obj\Debug\net6.0\ETradeServer.Application.csproj.CopyComplete
+D:\Kodlar\ETrade\ETradeServer\Core\ETradeServer.Application\obj\Debug\net6.0\ETradeServer.Application.dll
+D:\Kodlar\ETrade\ETradeServer\Core\ETradeServer.Application\obj\Debug\net6.0\refint\ETradeServer.Application.dll
+D:\Kodlar\ETrade\ETradeServer\Core\ETradeServer.Application\obj\Debug\net6.0\ETradeServer.Application.pdb
+D:\Kodlar\ETrade\ETradeServer\Core\ETradeServer.Application\obj\Debug\net6.0\ref\ETradeServer.Application.dll
